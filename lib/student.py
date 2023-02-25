@@ -3,3 +3,4 @@ class Student:
 
 class ChattyStudent(Student):
     pass
+#GDC#12
